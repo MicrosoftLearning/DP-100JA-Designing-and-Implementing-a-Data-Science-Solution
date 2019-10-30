@@ -1,4 +1,4 @@
-﻿# DP-100-Implementing-an-Azure-Data-Science-Solution
+﻿# DP-100 Azure のデータ サイエンス ソリューションの設計と実装
 
  このラボは、データ分析から、トレーニングを受けたモデルを Azure Machine Learning サービスにデプロイするまで、データ サイエンス ソリューションを開発する一連のタスクを構成します。 
 
