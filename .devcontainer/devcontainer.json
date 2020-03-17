@@ -1,0 +1,13 @@
+{
+    // Install python extension"
+    "extensions":["ms-python.python"],
+    
+    //Use Python 3.5 environment by defualt
+    "settings": {
+      "python.pythonPath": "/usr/bin/python3"
+    },
+  
+    // Run Bash script to install Python packages
+    "postCreateCommand": "sudo bash ./.devcontainer/devcontainer.sh > ~/post-create.log",
+  }
+  

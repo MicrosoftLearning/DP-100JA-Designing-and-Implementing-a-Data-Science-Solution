@@ -1,17 +1,9 @@
-﻿# DP-100 Azure のデータ サイエンス ソリューションの設計と実装
+﻿# DP-100: Azure のデータ サイエンス ソリューションの設計と実装
 
- このラボは、データ分析から、トレーニングを受けたモデルを Azure Machine Learning サービスにデプロイするまで、データ サイエンス ソリューションを開発する一連のタスクを構成します。 
+このリポジトリには、Microsoft コース [DP-100T01-A](https://docs.microsoft.com/ja-jp/learn/certifications/courses/dp-100t01) のラボ ファイルが含まれています。[*Azure でのデータ サイエンス ソリューションの設計と実装*](https://docs.microsoft.com/ja-jp/learn/certifications/courses/dp-100t01)。
 
-各モジュールのラボの目的の概要を以下に示します。
+ラボの手順は[こちら](labdocs/README.md)です。
 
-## ラボ 1 - scikit-learn を使用して Python で分類モデルをトレーニングする
+## 投稿
 
-このラボでは、Azure Notebooks で Python を使用して分類モデルをトレーニングします。  このモデルは、顧客が購入する可能性が最も高い自転車の種類を予測します。探索的データ分析と機能エンジニアリングが必要になります。 
-
-## ラボ 2 - Azure Machine Learning service を使用してモデルをトレーニングおよびデプロイする
-
-このラボでは、受講者がラボ 1 で開発したのと同じモデルをトレーニング、登録、デプロイ、およびテストします。  ここでは Azure Machine Learning service Python SDK の使用に重点を置いています。
-
-## ラボ 3 - AutoML と HyperDrive を使用してマシンを自動化する 
-
-このラボでは、受講者は AutoML と HyperDrive を使用して、最適な機械学習分類モデルを選択し、最適なハイパーパラメーター値を決定します。目標は、手動でトレーニングしたモデルよりも優れたパフォーマンスを発揮するモデルを取得できるかどうかを確認することです。
+現時点では、このリポジトリに対する外部からの投稿は受け付けていません。提案がある場合、またはエラーを発見した場合は、[問題](https://github.com/MicrosoftLearning/DP100/issues)として報告してください。
