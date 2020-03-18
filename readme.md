@@ -1,6 +1,6 @@
 ﻿# DP-100: Azure のデータ サイエンス ソリューションの設計と実装
 
-このリポジトリには、Microsoft コース [DP-100T01-A](https://docs.microsoft.com/ja-jp/learn/certifications/courses/dp-100t01) のラボ ファイルが含まれています。[*Azure でのデータ サイエンス ソリューションの設計と実装*](https://docs.microsoft.com/ja-jp/learn/certifications/courses/dp-100t01)。
+このリポジトリには、Microsoft コース [DP-100T01-A: *Azure でのデータ サイエンス ソリューションの設計と実装*](https://docs.microsoft.com/ja-jp/learn/certifications/courses/dp-100t01) のラボ ファイルが含まれています。
 
 ラボの手順は[こちら](labdocs/README.md)です。
 

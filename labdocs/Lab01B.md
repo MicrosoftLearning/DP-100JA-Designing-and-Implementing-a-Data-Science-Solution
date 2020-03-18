@@ -19,7 +19,7 @@
     pip install --upgrade azureml-sdk[notebooks,automl,explain]
 ```
 
-    > **詳細情報**: Azure ML SDK とそのオプション コンポーネントのインストールの詳細については、「[Azure ML SDK ドキュメント](https://docs.microsoft.com/python/api/overview/azure/ml/install?view=azure-ml-py)」を参照してください。
+    > **詳細情報** : Azure ML SDK とそのオプション コンポーネントのインストールの詳細については、「[Azure ML SDK ドキュメント](https://docs.microsoft.com/python/api/overview/azure/ml/install?view=azure-ml-py)」を参照してください。
 
 5. 次に、次のコマンドを実行して、現在のディレクトリを **Users** ディレクトリに変更し、このコースの演習で使用する Notebooks を取得します。
 
@@ -52,7 +52,7 @@ Azure Machine Learning でコンピューティング インスタンスを使�
 
     ホストされる Visual Studio Code 環境には、Python の 3 つのインストール (バージョン 2.7.13、3.5.3、3.8.0) が含まれています。Python **3.5.3** 仮想環境を使用します。独自のインストールでは、Python のインストール、仮想環境の作成、必要なパッケージのインストールを担当します。このラボでは、Python の一般的な構成のほとんどを行いますが、Azure Machine Learning SDK をインストールする必要があります。
 
-5. Visual Studio Online 環境で、DP100 リポジトリの内容が読み込まれるのを待ってから、アプリケーション メニュー (** &#9776;**) で、**表示**メニューの **コマンド パレット** をクリックします (または Ctrl+Shift+P を押します)。次に、パレットで、コマンド **Python: Create Terminal** を入力します。これにより、Visual Studio Online インターフェイスの下部に Python ターミナル ウィンドウが開きます。
+5. Visual Studio Online 環境で、DP100 リポジトリの内容が読み込まれるのを待ってから、アプリケーション メニュー (**&#9776;**) で、**表示**メニューの **コマンド パレット** をクリックします (または Ctrl+Shift+P を押します)。次に、パレットで、コマンド **Python: Create Terminal** を入力します。これにより、Visual Studio Online インターフェイスの下部に Python ターミナル ウィンドウが開きます。
 
     > **ヒント**: *Python の場合: ターミナルを作成* コマンドが表示されない場合は、ブラウザーを更新し、環境を再読み込みしてから、もう一度やり直してください。
 
