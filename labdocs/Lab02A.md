@@ -43,7 +43,7 @@ Designer を使用するには、まずパイプラインを作成し、作業�
 4. これで、トレーニングと検証のためにデータを個別のデータセットに分割する準備ができました。左側のウィンドウの「**Data Transformation**」セクションで、**Split Data**(データの分割)モジュールを**Normalize Data**モジュールの下のキャンバスにドラッグします。次に、**Normalize Data**モジュールの*変換済データセット* (左) を**Split Data**モジュールの入力に接続します。
 5. **Split Data**モジュールを選択し、次のように設定します。
     * **分割モード(splitting mode)** 行の分割(Split Rows)
-    * **最初の出力データセットの行の割合(Fraction of rows in the first output dataset)**: 0.5
+    * **最初の出力データセットの行の割合(Fraction of rows in the first output dataset)**: 0.7
     * **ランダム シード(Random seed)**: 123
     * **層化分割(Stratified split)**: False
 
