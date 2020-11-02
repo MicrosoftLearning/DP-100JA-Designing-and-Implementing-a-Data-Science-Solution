@@ -12,6 +12,6 @@
 
 1. [Azure Machine Learning Studio](https://ml.azure.com) で、ワークスペースの**コンピューティング** ページを表示し、**コンピューティング インスタンス** タブでコンピューティング インスタンスを開始します。
 2. コンピューティング インスタンスが実行されている場合は、ブラウザーで Azure Machine Learning Studio の Web ページを更新して、認証セッションの有効期限が切れていないことを確認します。次に、**Jupyter** リンクをクリックして、新しいブラウザー タブで Jupyter のホーム ページを開きます。
-3. Jupyter のホーム ページの**ユーザー/DP100** フォルダーで、**07A - Creating a Real-time Inferencing Service.ipynb** Notebook を開きます。次に、Notebook 内の注意事項を読み、各コード セルを順番に実行します。
-4. Notebook 内のコードの実行が終了したら、**ファイル** メニューの**閉じて停止**をクリックして閉じ、Python カーネルをシャットダウンします。その後、すべての Jupyter ブラウザー タブを閉じます。
+3. Jupyter のホーム ページの**Users/DP100** フォルダーで、**07A - Creating a Real-time Inferencing Service.ipynb** Notebook を開きます。次に、Notebook 内の注意事項を読み、各コード セルを順番に実行します。
+4. Notebook 内のコードの実行が終了したら、**ファイル(Files)** メニューの**閉じて停止(Close and Halt)**をクリックして閉じ、Python カーネルをシャットダウンします。その後、すべての Jupyter ブラウザー タブを閉じます。
 5. Azure Machine Learning Studio の**コンピューティング** ページで、コンピューティング インスタンスを選択し、**停止**をクリックしてシャットダウンします。
